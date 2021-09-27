@@ -1,5 +1,7 @@
 ## My Personal Website
 
+<div align="center"><img src="me.jpg" width="200" height="200" alt="flash-zootopia" /></div>
+
 You can use the [editor on GitHub](https://github.com/jamesdestacio/jamesdestacio.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
